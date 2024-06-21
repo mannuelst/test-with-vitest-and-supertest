@@ -16,6 +16,8 @@
     "vitest": "^2.0.5"
   },
   "dependencies": {
-    "fastify": "^4.23.2"
+    "@types/supertest": "^6.0.2",
+    "fastify": "^4.23.2",
+    "supertest": "^7.0.0"
   }
 }
